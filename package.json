@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "moment-timezone": "^0.5.41",
+    "moment-timezone": "^0.5.41"
+  },
+  "devDependencies": {
     "nodemon": "^2.0.21"
   }
 }
